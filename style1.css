@@ -12,6 +12,7 @@
     body{
         font-family: sans-serif;
         text-decoration: none;
+        background-color: #b2b2b2;
 
         
         
@@ -28,7 +29,7 @@
         padding: 0 10px 0 0px  ;
         height: 45px;
         width: 100%;
-        background-color:rgb(223, 137, 137);
+        background-color:rgb(3, 0, 0);
          justify-content: space-between; 
         align-items: center;
         display: flex;
